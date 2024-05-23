@@ -4,7 +4,7 @@
 - 🌱 I specialize in technologies such as Node.js, React.js, Next.js, React Native, CSS, Tailwind CSS, MongoDB, SQL, and Firebase
 - 🔥 Also specialize in Cross-platform Mobile App Development with React Native along with firebase. 
 - 💬 Feel free to contact me for any concern
-- 🚀 Ready to elevate and contribute the projects 
+- 🚀 Ready to elevate and contribute to the projects 
 - 📫 You can reach me at: mehdkhanofficial@gmail.com
 - 😄 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/mehdikhan55">mehdikhan55</a>
 
