@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mehdi Ali</h1>
 
-- 🔭 I’m currently advancing my skills in full-stack development with a focus on MERN stack projects
+- 🔭 I’m currently advancing in full-stack development with a focus on MERN stack projects
 - 🌱 I specialize in technologies such as Node.js, React.js, Next.js, React Native, CSS, Tailwind CSS, MongoDB, SQL, and Firebase
 - 🔥 Also specialize in Cross-platform Mobile App Development with React Native along with firebase. 
 - 💬 Feel free to contact me for any concern
