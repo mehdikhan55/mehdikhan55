@@ -7,6 +7,7 @@
 - 🚀 Ready to elevate and contribute to the projects 
 - 📫 You can reach me at: mehdkhanofficial@gmail.com
 - 😄 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/mehdikhan55">mehdikhan55</a>
+- ✨ Portfolio: <a href="https://mehdiali.vercel.app">mehdikhan55</a>mehdiali.vercel.app</a>
 
 ### Connect with me:
 <div id="badges">
