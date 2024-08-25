@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/45263e9f-4f5c-477c-98d7-b03fb4032560.svg)](https://wakatime.com/@45263e9f-4f5c-477c-98d7-b03fb4032560)
-
 <h1 align="center">Hi there👋, I'm Muhammad Mehdi Ali</h1>
 
 - 🔭 I’m currently advancing in full-stack development.
@@ -62,3 +60,5 @@
 ![Muhammad Mehdi Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdikhan55&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdikhan55&theme=dark)
+
+[![wakatime](https://wakatime.com/badge/user/45263e9f-4f5c-477c-98d7-b03fb4032560.svg)](https://wakatime.com/@45263e9f-4f5c-477c-98d7-b03fb4032560)
