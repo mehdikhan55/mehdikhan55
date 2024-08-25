@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/45263e9f-4f5c-477c-98d7-b03fb4032560.svg)](https://wakatime.com/@45263e9f-4f5c-477c-98d7-b03fb4032560)
 
-<h1 align="center">Hi 👋, I'm Muhammad Mehdi Ali</h1>
+<h1 align="center">Hi there👋, I'm Muhammad Mehdi Ali</h1>
 
 - 🔭 I’m currently advancing in full-stack development.
 - 🌱 I specialize in technologies such as React.js, Next.js, Node.js, React Native, Tailwind CSS, MongoDB, SQL, Firebase, Appwrite and more.
