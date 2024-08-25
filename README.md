@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Muhammad Mehdi Ali</h1>
 
 - 🔭 I’m currently advancing in full-stack development.
-- 🌱 I specialize in technologies such as React.js, Next.js, Node.js, React Native, Tailwind CSS, MongoDB, SQL, Firebase, Appwrite and more.
+- 🌱 I specialize in React.js, Next.js, Node.js, React Native, Tailwind CSS, MongoDB, SQL, Firebase, Appwrite and more.
 - 🔥 Also specialize in Cross-platform Mobile App Development with React Native. 
 - 💬 Feel free to contact me for any concern
 - 🚀 Ready to elevate and contribute to the projects 
