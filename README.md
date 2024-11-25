@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Muhammad Mehdi Ali</h1>
 
-- 🔭 I’m currently advancing in full-stack development.
+- 🔭 Advancing in full-stack development.
 - 🌱 I specialize in React.js, Next.js, Node.js, Tailwind CSS, MongoDB, SQL, Firebase, Appwrite and more.
 - 🔥 Also specialize in Cross-platform Mobile App Development with React Native. 
 - 💬 Feel free to contact me for any concern
@@ -56,8 +56,6 @@
 ![WooCommerce](https://img.shields.io/badge/woo-96588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Elementor](https://img.shields.io/badge/elementor-%23D42C6F.svg?style=for-the-badge&logo=elementor&logoColor=white)
 
-# 📊 GitHub Stats:
-![Muhammad Mehdi Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdikhan55&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdikhan55&theme=dark)
 
