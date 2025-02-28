@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Muhammad Mehdi Ali</h1>
 
-- 🔭 Advancing in full-stack development.
-- 🌱 I specialize in React.js, Next.js, Node.js, Tailwind CSS, MongoDB, SQL, Firebase, Appwrite and more.
+- 🔭 Advancing in building software solutions.
+- 🌱 I specialize in MERN Stack - React.js, Next.js and Node.js.
 - 🔥 Also specialize in Cross-platform Mobile App Development with React Native. 
-- 💬 Feel free to contact me for any concern
-- 🚀 Ready to elevate and contribute to the projects 
-- 📫 You can reach me at: mehdkhanofficial@gmail.com
+- 💬 Feel free to contact for any concern.
+- 🚀 Ready to elevate and contribute to the projects.
+- 📫 Reach me at: mehdkhanofficial@gmail.com
 
 ## 🌐 Connect with me:
 <div id="badges">
