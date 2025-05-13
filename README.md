@@ -56,6 +56,10 @@
 ![WooCommerce](https://img.shields.io/badge/woo-96588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Elementor](https://img.shields.io/badge/elementor-%23D42C6F.svg?style=for-the-badge&logo=elementor&logoColor=white)
 
+![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdikhan55&show_icons=true&theme=dark&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehdikhan55&theme=dark)](https://git.io/streak-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdikhan55&theme=dark)
 
