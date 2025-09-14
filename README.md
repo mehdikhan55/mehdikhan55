@@ -2,7 +2,7 @@
 
 - 🔭 Advancing in building software solutions.
 - 🌱 I specialize in MERN Stack - React.js, Next.js and Node.js.
-- 🔥 Also specialize in Cross-platform Mobile App Development with React Native. 
+- 🔥 Cross-platform Mobile App Development with React Native. 
 - 💬 Feel free to contact for any concern.
 - 🚀 Ready to elevate and contribute to the projects.
 - 📫 Reach me at: mehdkhanofficial@gmail.com
@@ -12,9 +12,9 @@
    <a href="https://www.linkedin.com/in/mehdikhan55">
     <img src="https://img.shields.io/badge/Linkedin-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://github.com/mehdiali55">
+<!--   <a href="https://github.com/mehdiali55">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
-  </a>
+  </a> -->
 </div>
 
 # 💻 Tech Stack:
