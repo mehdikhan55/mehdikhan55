@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Muhammad Mehdi Ali</h1>
 
-- 🔭 Advancing in building software solutions.
-- 🌱 I specialize in MERN Stack - React.js, Next.js and Node.js.
+- 🔭 Advancing in building Software and AI Solutions.
+- 🌱 I specialize in Full Stack & AI Development.
 - 🔥 Cross-platform Mobile App Development with React Native. 
 - 💬 Feel free to contact for any concern.
 - 🚀 Ready to elevate and contribute to the projects.
-- 📫 Reach me at: mehdkhanofficial@gmail.com
+- 📫 Reach me at: mehdi.jadoon@gmail.com
 
 ## 🌐 Connect with me:
 <div id="badges">
