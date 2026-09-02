@@ -1,68 +1,86 @@
 <h1 align="center">Hi there👋, I'm Muhammad Mehdi Ali</h1>
 
-- 🔭 Advancing in building Software and AI Solutions.
-- 🌱 I specialize in Full Stack & AI Development.
-- 🔥 Cross-platform Mobile App Development with React Native. 
-- 💬 Feel free to contact for any concern.
-- 🚀 Ready to elevate and contribute to the projects.
+<p align="center">
+  <b>Full-Stack Developer &nbsp;&middot;&nbsp; AI & Mobile Engineer &nbsp;&middot;&nbsp; Builder of Scalable Solutions</b>
+</p>
+
+---
+
+### About Me
+
+I build complete full-stack and mobile products, from custom web applications to cross-platform mobile apps and intelligent AI-powered solutions. My work spans the entire software development lifecycle, focusing on modern architectures, agentic AI, and automating business workflows completely.
+
+- Full-stack web and mobile development with **Next.js**, **React**, **React Native**, and **Node.js**
+- Backend architecture, AI agents, and integrations using **Python**, **FastAPI**, **Flask**, and **OpenAI**
+- Database management and schema design with **PostgreSQL**, **MongoDB**, and **MySQL**
+- Comfortable working across the whole stack, covering API design, cloud infrastructure, server deployments, and real-time systems
 - 📫 Reach me at: mehdi.jadoon@gmail.com
 
-## 🌐 Connect with me:
-<div id="badges">
-   <a href="https://www.linkedin.com/in/mehdikhan55">
-    <img src="https://img.shields.io/badge/Linkedin-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-<!--   <a href="https://github.com/mehdiali55">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
-  </a> -->
-</div>
+---
 
-# 💻 Tech Stack:
+### Tech Stack
 
-### STACKS:
-![MERN Stack](https://img.shields.io/badge/MERN-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Frontend & Mobile**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 
-### BACK-END:
-![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/REST-00C853?style=for-the-badge&logo=rest&logoColor=white)
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
 
-### FRONT-END:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Context API](https://img.shields.io/badge/contextapi-5A29E4?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**AI / ML**
+![LLMs](https://img.shields.io/badge/LLMs-4B32C3?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logoColor=black)
 
-### DATABASE:
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firestore](https://img.shields.io/badge/firestore-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Appwrite](https://img.shields.io/badge/appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-### OTHER TOOLS:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Appwrite](https://img.shields.io/badge/appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/woo-96588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/elementor-%23D42C6F.svg?style=for-the-badge&logo=elementor&logoColor=white)
+---
 
-<!-- ✅ GitHub Stats: Total commits, stars, PRs, and contributions -->
-<!-- ![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdikhan55&show_icons=true&theme=dark&count_private=true) -->
+### GitHub Analytics
 
-<!-- ✅ GitHub Streak Stats: Shows daily contribution streak -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mehdikhan55&theme=dark)](https://git.io/streak-stats) -->
+<!-- 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdialikhan&show_icons=true&theme=dark&cache_seconds=86400&v=1)](https://github.com/mehdialikhan) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdialikhan&theme=dark&layout=compact&cache_seconds=86400&v=1)](https://github.com/mehdialikhan) 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehdialikhan&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdikhan55&theme=dark)
+---
+-->
 
-[![wakatime](https://wakatime.com/badge/user/45263e9f-4f5c-477c-98d7-b03fb4032560.svg)](https://wakatime.com/@45263e9f-4f5c-477c-98d7-b03fb4032560)
+### Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/mehdikhan55"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mehdialikhan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
